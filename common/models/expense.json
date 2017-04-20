@@ -9,7 +9,7 @@
     "amount": {
       "type": "number",
       "required": true,
-      "postgre": {
+      "postgresql": {
         "dataType": "DECIMAL"
       }
     }
